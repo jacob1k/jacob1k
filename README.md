@@ -8,5 +8,5 @@ I'm a full time student majoring in computer science, with focus on software/gam
 
  <p align="left">
       <a href="https://www.youtube.com/channel/UCvdc452b4CmplIZu4lXqe8w">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube-channel" title="Visit my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=youtube_button-removebg-preview1"/></a> 
    </p>
